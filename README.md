@@ -36,7 +36,7 @@ DBSCAN Clustering
     Density-based spatial clustering of applications with noise (DBSCAN) is another unsupervised machine learning algorithm used for clustering. Unlike Kmeans, it can identify clusters of arbitrary shape and handle noise (outliers). In this project, we apply DBSCAN clustering to identify clusters of fraudulent transactions.
 
 
-<img src='images/cluster_plot.png'>
+<img src='images/dbscan_plot.png'>
 
 <a href="https://www.flaticon.com/free-icons/credit-card" title="credit-card icons">Credit-card icons created by monkik - Flaticon</a>
  
