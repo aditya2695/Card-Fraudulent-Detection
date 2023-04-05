@@ -12,7 +12,7 @@
 
 ### Modelling
 
-
+<img src='images/cluster_plot.png'>
 
 <a href="https://www.flaticon.com/free-icons/credit-card" title="credit-card icons">Credit-card icons created by monkik - Flaticon</a>
  
